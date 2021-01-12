@@ -8,3 +8,6 @@ Ideal low pass filters,
 Butterworth highpass filter,
 Ideal notch-reject filter
 
+Kazım Muhammet Temiz
+Mert Rıza Karadeniz
+Nevzat Bugrahan Türk
